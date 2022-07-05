@@ -24,6 +24,7 @@ int main(int argc, char* argv[]) {
         switch (opt) {
         case 'h':
             help();
+	    return 0;
             break;
         case 'e':
             mu = atoi(optarg);
