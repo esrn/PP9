@@ -6,10 +6,10 @@
 
 void help() {
     printf("Bitte nutzen Sie folgende Argumente \n");
-    printf("-h: Hilfe");
-    printf("-e: Angabe des Erwartungswerts (ganzzahlig)");
-    printf("-s: Angabe der Standardabweichung (ganzzahlig)");
-    printf("-a: Angabe der Anzahl an Werten die generiert werden sollen (ganzzahlig)");
+    printf("-h: Hilfe \n");
+    printf("-e: Angabe des Erwartungswerts (ganzzahlig) \n");
+    printf("-s: Angabe der Standardabweichung (ganzzahlig) \n");
+    printf("-a: Angabe der Anzahl an Werten die generiert werden sollen (ganzzahlig) \n");
 }
 
 
